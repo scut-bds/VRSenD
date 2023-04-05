@@ -14,3 +14,5 @@ The production process of the panorama emotion data set is as follows:
 (3) GUI discrete emotion labeling system was used to collect binary emotion labeling data of users.
 (4) The efficiency of annotation was verified by Python script statistics, and the classification of panorama (positive and negative) emotion labels were determined according to the voting results.
 
+Some examples are shown in following, with positive samples at the top and negative samples at the bottom.
+![image](https://user-images.githubusercontent.com/34803816/230023139-a65d32a0-caaa-4bd4-97ce-439d5f778f2f.png)
