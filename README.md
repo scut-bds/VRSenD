@@ -1,4 +1,4 @@
-# VRED
+# VRED | 虚拟现实全景图二分类情感分析数据集
 
 <p align="center">
     <a href="./LICENSE"><img src="https://img.shields.io/badge/license-Apache%202-red.svg"></a>
@@ -12,8 +12,7 @@
 
 
 
-
-虚拟现实全景图二分类情感分析数据集
+## Introcdution
 
 Compared with non-immersive environments and semi-immersive environments, the sense of presence and interaction of fully immersive virtual environments enables users to be more deeply involved in the evoked materials and more reliably induce a variety of emotional states in the interaction with them. But publicly available emotional datasets in virtual environments are scarce. The purpose of this repository is to create a large-scale VR panoramic emotion data set that can effectively induce different emotional responses of subjects, and to design the production process of this data set and emotion labeling paradigm in strict reference to the existing emotional experiment standards, so as to provide a scientific and rigorous reference template for subsequent research.
 
@@ -31,3 +30,7 @@ The production process of the panorama emotion data set is as follows:
 
 Some examples are shown in following, with positive samples at the top and negative samples at the bottom.
 ![image](https://user-images.githubusercontent.com/34803816/230023139-a65d32a0-caaa-4bd4-97ce-439d5f778f2f.png)
+
+
+## Acknowledgement
+This project is sponsored by [School of Future Technology, South China University of Technology](https://www2.scut.edu.cn/ft/main.htm), Guangdong Provincial Key Laboratory of Human Digital Twin.
